@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pewbhai
 - 👀 I’m interested in Technology and Teaching with techs
 - 🌱 I’m currently learning Blockchain Technology and Web development also
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach we with https://thisismanoj.carrd.co
 
 <!---
